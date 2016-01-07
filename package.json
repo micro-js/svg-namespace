@@ -2,7 +2,7 @@
   "name": "@f/svg-namespace",
   "description": "SVG element namespace string",
   "repository": "git://github.com/micro-js/svg-namespace.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
